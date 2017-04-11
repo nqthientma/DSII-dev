@@ -1,0 +1,11 @@
+{
+  "name": "evp.ds.web",
+  "version": "0.0.1",
+  "description": "ErnstVanPraag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phuong.nguyen@27global.com",
+  "license": "ISC"
+}
